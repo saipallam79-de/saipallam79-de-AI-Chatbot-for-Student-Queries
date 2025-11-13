@@ -9,4 +9,4 @@
 - Recognize different intents
 - Provide automated responses
 
-**Status:** Idea / Not yet implemented
+
